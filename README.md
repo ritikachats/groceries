@@ -1,2 +1,6 @@
-# groceries
-Ritika Chaturvedi 12-GAMMA
+# welcome to my website
+
+henlo frenz
+my name is vihan and this is my website
+
+just trying to learn flask
